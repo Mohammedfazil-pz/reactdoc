@@ -1,0 +1,29 @@
+what is npm?
+
+
+NPM (Node Package Manager) is a package manager for JavaScript. It is the default package manager for Node.js, 
+a runtime environment for executing JavaScript code outside the browser.
+ NPM simplifies the process of installing, sharing, and managing libraries or dependencies in your project.
+
+diff btw npm and npx
+
+NPM (Node Package Manager):
+A tool for managing JavaScript packages by installing, updating, and managing dependencies in a project.
+
+NPX (Node Package Executor):
+A tool for running Node.js packages without installing them globally or permanently in a project.
+
+
+diff btw framework and library
+
+Framework:
+A framework provides a predefined structure and set of rules to build an application. It dictates the overall design and flow, and you plug your code into the framework. The framework is in control.
+
+Library:
+A library is a collection of reusable code or functions that you can call to perform specific tasks. You are in control, and you use the library as needed.
+
+
+diff btw react and angular?
+
+React is a JavaScript library focused on building user interfaces with flexibility and one-way data binding, 
+while Angular is a complete framework offering built-in tools like routing and two-way data binding, ideal for large-scale applications.
